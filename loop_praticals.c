@@ -16,12 +16,8 @@ char a ;
     printf( " this is not a char");
   }
 }
- 
 
-// this is to find which day to the week is it 
-
-void weekDay()
-
+void week()
 {
     int week;
     printf(" entry the day of the week (1-7) : ");
@@ -55,3 +51,5 @@ void weekDay()
     }
 
 }
+
+
