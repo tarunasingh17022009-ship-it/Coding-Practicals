@@ -1,3 +1,4 @@
+// this is to find which day to the week is it 
 # include<stdio.h>
 int main()
 
