@@ -16,6 +16,3 @@ char a ;
     printf( " this is not a char");
   }
 }
-
-
-
